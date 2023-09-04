@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gaurav and I'm a UI?UX Designer.</h2>
+<h2 align="left">Hi 👋! My name is Gaurav and I'm a UI/UX Designer.</h2>
 
 ###
 
