@@ -48,6 +48,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gp0814/gp0814/output/snake.svg" alt="Snake animation" />
-
 ###
