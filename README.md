@@ -1,13 +1,21 @@
-<h2 align="left">Hi 👋! My name is Gaurav and I'm a UI/UX Designer.</h2>
+
+![Yellow Monochrome Photo LinkedIn Banner (1)](https://github.com/user-attachments/assets/016ccfe5-993e-48ce-bcf8-49bf8f737546)
+
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gaurav!;" />
+</h1>
+<div align="center"> 
 
 <div align="center"> 
   
 <h2 align="center">Leetcode Info<h2>  
+  
 <p align="center">
 <!--   <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a> -->
   <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static_assets/others/Top_SQL_50.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 <p align="center">
   
@@ -24,11 +32,13 @@
 
 ###
 
-<img align="right" height="180" src="https://media.tenor.com/sEc0JB7GGoAAAAAd/guiding-knife.gif"  />
-
 ###
 
 <div align="center">
+  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png" height="50" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" height="50" alt="figma logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
@@ -44,9 +54,6 @@
   <a href="https://www.youtube.com/@gtugamers/featured" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/im._.pandey/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="instagram logo"  />
-  </a>
   <a href="http://discordapp.com/users/776159439953854474" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="discord logo"  />
   </a>
@@ -58,7 +65,25 @@
   </a>
 </div>
 
-<h2>🐍 Contributions 🐍</h2>
+<h2 align="center">A Passionate Flutter Developer from India</h2>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **Backend.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/gp0814](https://github.com/gp0814)
+
+- 💬 Ask me about **Flutter**
+
+- 📫 How to reach me **gtu.pandey@gmail.com**
+
+- 📄 Know about my experiences https://tinyurl.com/ctrlgauravv
+  
+
+
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
