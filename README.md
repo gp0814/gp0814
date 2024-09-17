@@ -51,17 +51,20 @@
 ###
 
 <div align="center">
+    <a href="https://codolio.com/profile/ctrlgaurav" target="_blank">
+    <img src="https://codolio.com/codolio_assets/gif-owl-transparent.GIF" height="45" alt="codolio logo"  />
+  </a>
   <a href="https://www.youtube.com/@gtugamers/featured" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="youtube logo"  />
+    <img src="https://cliply.co/wp-content/uploads/2019/07/371907120_YOUTUBE_ICON_TRANSPARENT_400.gif" height="45" alt="youtube logo"  />
   </a>
   <a href="http://discordapp.com/users/776159439953854474" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="discord logo"  />
+    <img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" height="45" alt="discord logo"  />
   </a>
   <a href="gkp5625@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"  />
+    <img src="https://www.freeiconspng.com/thumbs/gmail-icon/gmail-logo-icon-2.png" height="45" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/gaurav-7528b1257/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
+    <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height="45" alt="linkedin logo"  />
   </a>
 </div>
 
