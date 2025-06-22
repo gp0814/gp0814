@@ -1,105 +1,122 @@
 
 ![Yellow Monochrome Photo LinkedIn Banner (1)](https://github.com/user-attachments/assets/016ccfe5-993e-48ce-bcf8-49bf8f737546)
 
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gaurav!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+👋;I'm+Gaurav+Pandey;Java+%7C+Flutter+%7C+DSA+Enthusiast;" />
 </h1>
-<div align="center"> 
 
-<h2 align="center">Leetcode Info<h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="coding-gif" />
+</div>
 
+---
 
-  
+## 🚀 About Me
+
+- 🧑‍💻 Full-stack Developer with focus on **Java Backend & Flutter Mobile**
+- 💡 Constant learner exploring **System Design**, **Microservices**, and **Cloud Deployments**
+- 🔍 Passionate about writing **clean**, **efficient**, and **scalable** code
+- 🎯 Daily DSA practice on LeetCode and Coding Platforms
+- ✨ Fun Fact: My brain debugs itself in sleep 😴
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://leetcode.com/ctrlgaurav/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/ctrlgaurav/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/ctrlgaurav/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
- </p>
-<p align="center">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ctrlgaurav?theme=dark&font=Underdog&ext=contest" />  
+  <a href="mailto:gtu.pandey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gaurav-7528b1257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@gtugamers/featured"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="http://discordapp.com/users/776159439953854474"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://codolio.com/profile/ctrlgaurav"><img src="https://img.shields.io/badge/Codolio-Portfolio-%2300C896?style=for-the-badge"/></a>
 </p>
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gp0814&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=gp0814&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gp0814&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
+## 💻 Tech Stack
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" title="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" title="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" title="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" title="Vue" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="45" title="Maven" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" title="C" />
+  <img src="https://img.icons8.com/color/48/000000/hibernate.png" height="45" title="Hibernate"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" height="45" title="AWS" />
+</p>
 
-<div align="center">
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png" height="50" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" height="50" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="50" alt="illustrator logo"  />
-</div>
+<p align="center">
+  <!-- Spring AI placeholder badge -->
+  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI badge" />
+</p>
 
-###
+---
 
-<div align="center">
-    <a href="https://codolio.com/profile/ctrlgaurav" target="_blank">
-    <img src="https://codolio.com/codolio_assets/gif-owl-transparent.GIF" height="45" alt="codolio logo"  />
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gp0814&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=gp0814&theme=tokyonight&hide_border=false" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gp0814&layout=compact&theme=tokyonight&langs_count=6&hide_border=false" height="150" />
+</p>
+
+---
+
+## 🧠 LeetCode Grind
+
+<p align="center">
+  <a href="https://leetcode.com/ctrlgaurav/">
+    <img src="https://leetcard.jacoblin.cool/ctrlgaurav?theme=dark&font=Underdog&ext=contest" />
   </a>
-  <a href="https://www.youtube.com/@gtugamers/featured" target="_blank">
-    <img src="https://cliply.co/wp-content/uploads/2019/07/371907120_YOUTUBE_ICON_TRANSPARENT_400.gif" height="45" alt="youtube logo"  />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/ctrlgaurav/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" height="160"/>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" height="160"/>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="160"/>
   </a>
-  <a href="http://discordapp.com/users/776159439953854474" target="_blank">
-    <img src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" height="45" alt="discord logo"  />
-  </a>
-  <a href="gkp5625@gmail.com" target="_blank">
-    <img src="https://www.freeiconspng.com/thumbs/gmail-icon/gmail-logo-icon-2.png" height="45" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/gaurav-7528b1257/" target="_blank">
-    <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height="45" alt="linkedin logo"  />
-  </a>
-</div>
+</p>
 
-<h2 align="center">A Passionate Flutter Developer from India</h2>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+---
 
+## 📄 Resume
 
+- 📌 Check out my [Résumé](https://tinyurl.com/ctrlgauravv)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
+## 🐍 Contribution Snake
 
+<!-- Snake only works if it's YOUR repo with proper GitHub Actions. -->
+<!-- Placeholder GIF instead -->
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif" alt="contribution animation" />
+</p>
 
+---
 
+## ⚡ Quick Facts
 
+- 🕹️ Gamer on weekends — check my gaming content on YouTube  
+- 🛠️ Built 10+ projects from scratch, spanning full-stack web to mobile  
+- 🏅 Active in hackathons, open-source, and DSA challenges  
+- 💌 Always up for networking, coding, and chai ☕
 
+---
 
+### 💬 Quote I live by:
 
-## 👋 Hi there, I'm a Java Backend Developer!
+> _"Programs must be written for people to read, and only incidentally for machines to execute."_ — Harold Abelson
 
-- 🔭 I’m currently working on Spring Boot microservices
-
-- 🌱 I’m learning system design and cloud deployments
-
-- 💬 Ask me about Java, REST APIs, or Hibernate
-
-- ⚡ Fun fact: I believe well-written code speaks louder than words!
-
-- 📫 How to reach me **gtu.pandey@gmail.com**
-
-- 📄 Know about my experiences https://tinyurl.com/ctrlgauravv
-  
+---
 
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
-
-
-###
-
-<br clear="both">
-
-###
