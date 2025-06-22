@@ -71,11 +71,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Backend.**
+## 👋 Hi there, I'm a Java Backend Developer!
 
-- 👨‍💻 All of my projects are available at [https://github.com/gp0814](https://github.com/gp0814)
+- 🔭 I’m currently working on Spring Boot microservices
 
-- 💬 Ask me about **Flutter**
+- 🌱 I’m learning system design and cloud deployments
+
+- 💬 Ask me about Java, REST APIs, or Hibernate
+
+- ⚡ Fun fact: I believe well-written code speaks louder than words!
 
 - 📫 How to reach me **gtu.pandey@gmail.com**
 
